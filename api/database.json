@@ -1,9 +1,19 @@
 {
-    "places": [
-        {
-            "name": "Madrid",
-            "type": "City",
-            "id": 1
-        }
-    ]
+  "places": [
+    {
+      "name": "australia",
+      "type": "City",
+      "id": 2
+    },
+    {
+      "name": "The Pacific Seas",
+      "type": "The Ocean",
+      "id": 4
+    },
+    {
+      "name": "NSS",
+      "type": "School",
+      "id": 5
+    }
+  ]
 }
