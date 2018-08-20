@@ -1,0 +1,9 @@
+{
+    "places": [
+        {
+            "name": "Madrid",
+            "type": "City",
+            "id": 1
+        }
+    ]
+}
